@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F2C2FF&height=300&section=header&text=KimChaeyun&fontSize=90&fontColor=393939&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F2C2FF&height=150&section=header&text=KimChaeyun&fontSize=65&fontColor=505050&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 ### Hi there 👋
 
 <!--
