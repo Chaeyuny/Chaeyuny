@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ##  🐣About Me 
 
-🖊 **Back-End Web Developer**라는 목표를 가진 **김채윤**입니다! <br>
+🖊 ***Back-End Web Developer***라는 목표를 가진 **김채윤**입니다! <br>
 🖊 전공 졸업 후 개발역량 향상을 위해 빅데이터 분석서비스 개발자 과정을 수료하였습니다. <br>
 🖊 프로젝트 경험을 통해 팀워크에서의 리더십과 팔로십의 중요성을 인지하고 있습니다. <br>
 🖊 개발 중 문제가 발생했을 때 다양하고 새로운 해결방안을 시도합니다. <br>
@@ -25,28 +25,16 @@ Here are some ideas to get you started:
 <br>
 
 ## 🛠 Technical Skills
-| **DataBase** | **Date** | **Contents** | **Organizaition** |
+| **DataBase** | **Language** | **F/W Tools** | **Collaboration** |
 |:--------:|:--------:|:--------:|:--------:|
-| *Education* | 2022.03 ~ 2022.08 | Bigdata Analysis Developer Program | Smart Human Resources Development |
-| *Work Experience* | 2019.07 ~ 2022.02 | Quality Management | Sooseok |
-| *Experience* | 2018.10 ~ 2018.11| 아동-청소년 행복지수 연구 | Donnguk University |
-| *Experience* | 2018.06 ~ 2018.07 | 경북아동 건강 현황조사 | Donnguk University |
+| <code><img src="https://user-images.githubusercontent.com/103620466/184141486-4bf19ebd-fb47-499a-b3f9-8d41b7848347.png" width="70"></code><br><code><img src="https://user-images.githubusercontent.com/103620466/184141815-ae301f1f-dcc1-42bd-bc32-f0e6f4133d6e.png" width="60"></code> | <code><img src="https://user-images.githubusercontent.com/103620466/184140341-0ece618b-551d-4dc5-baad-606c94dbc263.png" width="70"><img src="https://user-images.githubusercontent.com/103620466/184139621-5190bdf6-900b-4e14-b502-454cfb3ff237.png" width="70"></code> | <code><img src="https://user-images.githubusercontent.com/103620466/184142829-21493524-27b5-449d-b78b-0336d38c8254.png" width="70"><img src="https://user-images.githubusercontent.com/103620466/184143793-dd0b0887-6637-4711-9032-4579755be049.png" width="70"></code> | <code><img src="https://user-images.githubusercontent.com/103620466/184145273-5129039b-bd0d-4c80-a618-46705913a7c6.png" width="70"></code> |
 
 
 
-
-
-### Language
-<code><img src="https://user-images.githubusercontent.com/103620466/184140341-0ece618b-551d-4dc5-baad-606c94dbc263.png" width="70"></code>
-<code><img src="https://user-images.githubusercontent.com/103620466/184139621-5190bdf6-900b-4e14-b502-454cfb3ff237.png" width="70"></code> <br>
-
-### DataBase
-<code><img src="https://user-images.githubusercontent.com/103620466/184141486-4bf19ebd-fb47-499a-b3f9-8d41b7848347.png" width="70"></code>
-<code><img src="https://user-images.githubusercontent.com/103620466/184141815-ae301f1f-dcc1-42bd-bc32-f0e6f4133d6e.png" width="60"></code> <br>
 
 ### F/W Tools
-<code><img src="https://user-images.githubusercontent.com/103620466/184142829-21493524-27b5-449d-b78b-0336d38c8254.png" width="70"></code>
-<code><img src="https://user-images.githubusercontent.com/103620466/184143793-dd0b0887-6637-4711-9032-4579755be049.png" width="70"></code> <br>
+<code><img src="https://user-images.githubusercontent.com/103620466/184142829-21493524-27b5-449d-b78b-0336d38c8254.png" width="70"><img src="https://user-images.githubusercontent.com/103620466/184143793-dd0b0887-6637-4711-9032-4579755be049.png" width="70"></code>
+<code></code> <br>
 
 ### Collaboration
 <code><img src="https://user-images.githubusercontent.com/103620466/184145273-5129039b-bd0d-4c80-a618-46705913a7c6.png" width="70"></code> <br>
