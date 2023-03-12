@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=65C1D9&height=150&section=header&text=Chaeyun_Kim&fontSize=65&fontColor=202020&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
 ##  🐣 김채윤(Chaeyun Kim)
-✔ **백엔드 웹 개발자**를 목표로 하고 있습니다. <br>
-✔ **Database / JAVA / Spring 활용 서비스 개발과 유지보수**에 흥미가 있습니다. <br>
+✔ **Database / Spring 활용 서비스 개발과 유지보수**에 흥미가 있습니다. <br>
 <br>
 <br>
 <br>
