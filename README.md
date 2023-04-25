@@ -1,22 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=65C1D9&height=150&section=header&text=Chaeyun_Kim&fontSize=65&fontColor=202020&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=65C1D9&height=150&section=header&fontSize=65&fontColor=202020&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
 ##  🐣 김채윤(Chaeyun Kim)
-✔ **Database / Spring 활용 서비스 개발과 유지보수**에 흥미가 있습니다. <br>
-<br>
-<br>
-<br>
-
-
-## ☑ 개발역량
-🖊 **융합소프트웨어**를 전공으로 소프트웨어 관련 역량을 기르기 위해 꾸준히 노력하고 있습니다. <br>
-🖊 졸업 후 기술력 향상을 위해 **빅데이터 분석서비스 개발자 과정**을 수료하였습니다. <br>
-🖊 프로젝트 경험을 통해 **팀워크에서의 리더십과 팔로십의 중요성을 인지**하고 있습니다. <br>
-🖊 개발 중 문제가 발생했을 때 **다양하고 새로운 해결방안**을 시도합니다. <br>
-🖊 업무 시 동료 간 원활한 소통에 초점을 맞추어 **협업능력**을 끌어올리기 위해 노력합니다.<br>
-<br>
-<br>
-<br>
-
 
 ## ✅ 사용 기술
 | **DataBase** | **Language** | **F/W Tools** | **Collaboration** |
