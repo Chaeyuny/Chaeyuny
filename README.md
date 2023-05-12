@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=65C1D9&height=150&section=header&fontSize=65&fontColor=202020&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
-##  🐣 김채윤(Chaeyun Kim)
+##  🐣 김채윤
 
 | **DataBase** | **Language** | **F/W Tools** | **Collaboration** |
 |:--------:|:--------:|:--------:|:--------:|
